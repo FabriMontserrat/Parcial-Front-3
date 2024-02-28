@@ -1,5 +1,3 @@
-## Para correr el proyecto
+## Formulario para conocer de donde sos.
 
-`npm install`
-
-`npm run dev`
+Fabrizio Montserrat
